@@ -1,4 +1,4 @@
-package day02;
+package day02.stringlists;
 
 import java.util.ArrayList;
 import java.util.List;
